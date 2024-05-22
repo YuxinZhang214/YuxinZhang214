@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about web development, data visualisation, machine learning, NLP, and how I contribute to open source projects.
 
-- 📫 How to reach me: I’m open to discussions about collaborations or any questions about my projects.
+- 📫 How to reach me: I’m open to discussions about collaborations or any questions about my projects. yuxin.zhang.project@outlook.com
