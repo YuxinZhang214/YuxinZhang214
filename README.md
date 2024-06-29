@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about **machine learning, natural language processing (NLP)**, and **data visualisation**. 
 
-- 👯 I’m looking to collaborate on projects focused on **visualising music**. I’m passionate about exploring the intersection of music and technology!
+- 👯 I’m looking to collaborate on projects focused on **visualising music**. I’m passionate about exploring the intersection of music and technology! Have a look on one of my projects for visualising the music trend for each country and year[Visualising Music Trend] (https://yuxinzhang214.github.io/Visualising-Music-Trend/)
 
 - 🤔 I’m looking for help with expanding the scope of the Wiki Loves Monuments visualisation project to include more datasets, interactive features, and integrating machine learning models for deeper data analysis.
 
