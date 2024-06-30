@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an exciting project called **Visualising Community Contributions to UK Heritage Through Wiki Loves Monuments Competition**. This project uses data visualisation to showcase the contributions of community members to UK heritage sites through the Wiki Loves Monuments competition. Check it out here: [Visualising Community Contributions](https://wiki-loves-monument-uk-visualisation.vercel.app/).
+- 🔭 I’m currently working on an exciting project called **Visualising Community Contributions towards UK Heritage Through Wiki Loves Monuments Competition**. This project uses data visualisation to showcase the contributions of community members to UK heritage sites through the Wiki Loves Monuments competition. Check it out here: [Visualising Community Contributions](https://wiki-loves-monument-uk-visualisation.vercel.app/).
 
 - 🌱 I’m currently learning more about **machine learning, natural language processing (NLP)**, and **data visualisation**. 
 
